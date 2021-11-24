@@ -1,0 +1,19 @@
+@import "../home/home.component.scss";
+
+select{
+    margin-left: 1em ;
+}
+
+.details{
+    margin-top: 1cm;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+    height: 50vh;
+    width: 50vh;
+}
+
+.specific{
+    font-size: 0.6em;
+    margin: 0.3em 0.3em 0.3em 0.3em;
+}
